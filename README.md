@@ -4,6 +4,7 @@
 
 ## Create a DB sat_results_db AND Create a table in this db sat_results
 
+```
 name varchar(255) PK 
 address varchar(255
 city varchar(255)
@@ -11,6 +12,7 @@ country varchar(255)
 pincode varchar(10) 
 sat_score int(11) 
 result tinyint(1)
+```
 
 ## Following commands are supported 
 
